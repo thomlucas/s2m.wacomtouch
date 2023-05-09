@@ -1,5 +1,6 @@
 # s2m.wacomtouch
-max external [s2m.wacomtouch] compatible with Mac ARM
+max external [s2m.wacomtouch] compatible with Mac ARM. 
+This is an update of the object s2m.wacomtouch initially created by Charles Gondre.
 
 # Installation
 
